@@ -1,2 +1,3 @@
 caveat - warning
 arbitrary - random choice
+auxiliary - supplementary
